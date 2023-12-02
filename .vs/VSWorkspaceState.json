@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Vehicle.DataAccessLayer",
+    "\\Vehicle.DataAccessLayer\\Repository",
+    "\\Vehicle.DataAccessLayer\\Utils",
+    "\\VehicleAPI"
+  ],
+  "SelectedNode": "\\VehicleAPI\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
